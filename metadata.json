@@ -1,0 +1,7 @@
+{
+  "name": "ColoriFX - Photocopy to Color",
+  "description": "Transform monochrome photocopies into vibrant color images using Gemini 2.5 Flash Image. Maintain structural integrity while adding natural textures and colors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
